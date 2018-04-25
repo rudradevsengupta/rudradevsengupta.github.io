@@ -19,9 +19,9 @@ keywords: sengupta, analytics.
 <td class="left">
     <img id="frontphoto" src="dp2.jpg" width="780" height="780" alt="" />
 </td>
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  
-<td class="left">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;			
+<td class="justify">
 <br> I am currently a Ph.D. candidate at the Interuniversity Institute for Biostatistics and statistical Bioinformatics (I-BioStat) and am working towards my Ph.D. thesis under the  supervision of <a href="https://www.uhasselt.be/fiche?email=ziv.shkedy">Professor Ziv Shkedy</a>.
 <br>
 <br> My primary field of research is statistical bioinformatics. I am more interested in application of statistical models and currently working on Microbiome data. I am also interested in the computational aspects of statistical models, data science, machine learning techniques and application of statistics in sports.
