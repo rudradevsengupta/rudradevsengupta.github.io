@@ -8,7 +8,7 @@ keywords: sengupta, analytics.
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
-        <li><a href="https://rudadevsengupta.github.io/assets/cv_rudra.pdf" target="_blank">CV</a></li>
+        <li><a href="https://github.com/rudradevsengupta/rudadevsengupta.github.io/assets/cv_rudra.pdf" target="_blank">CV</a></li>
         <li><a href="https://be.linkedin.com/in/rudradev-sengupta-40507917" target="_blank">LinkedIn</a></li>
         </div>
   </div>
@@ -21,7 +21,7 @@ keywords: sengupta, analytics.
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;		
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;			
-<td class="justify">
+<td class="left">
 <br> I am currently a Ph.D. candidate at the Interuniversity Institute for Biostatistics and statistical Bioinformatics (I-BioStat) and am working towards my Ph.D. thesis under the  supervision of <a href="https://www.uhasselt.be/fiche?email=ziv.shkedy">Professor Ziv Shkedy</a>.
 <br>
 <br> My primary field of research is statistical bioinformatics. I am more interested in application of statistical models and currently working on Microbiome data. I am also interested in the computational aspects of statistical models, data science, machine learning techniques and application of statistics in sports.
