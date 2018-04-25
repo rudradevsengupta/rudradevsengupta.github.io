@@ -8,7 +8,7 @@ keywords: sengupta, analytics.
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
-        <li><a href="https://github.com/rudradevsengupta/rudadevsengupta.github.io/assets/cv_rudra.pdf" target="_blank">CV</a></li>
+        <li><a href="https://github.com/rudradevsengupta/rudadevsengupta.github.io/blob/master/assets/cv_rudra.pdf" target="_blank">CV</a></li>
         <li><a href="https://be.linkedin.com/in/rudradev-sengupta-40507917" target="_blank">LinkedIn</a></li>
         </div>
   </div>
